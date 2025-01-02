@@ -77,8 +77,11 @@ This AI assistant script provides a solid foundation for creating a voice-activa
                                            Packages to be installe
 
 speech recogination --- pip install SpeechRecognition
+
 pyttsx3 --------------- pip install pyttsx3
+
 openai ---------------- pip install openai
+
 wikipedia-------------- pip install wikipedia
 
 If other packages are giving errores the install them manualy
